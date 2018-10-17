@@ -28,8 +28,8 @@ The Pseudocode follows:
 
 Do please have a look at the solutions in code:
 [Python](https://github.com/Trshant/dynamic_problems/blob/master/longest_common_subsequence/longest_common_subsequence.py)  
-[PHP]()
-[JavaScript]()
+[PHP](https://github.com/Trshant/dynamic_problems/blob/master/longest_common_subsequence/longest_common_subsequence.php)  
+[JavaScript](https://github.com/Trshant/dynamic_problems/blob/master/longest_common_subsequence/longest_common_subsequence.js)  
 
 > Written with [StackEdit](https://stackedit.io/).
 
