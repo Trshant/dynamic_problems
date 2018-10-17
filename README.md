@@ -11,9 +11,9 @@
     
 3.  Longest Common Substring | My Solution : [
 [Pseudocode/writeup](https://github.com/Trshant/dynamic_problems/tree/master/longest_common_substring) , 
-[Python](https://github.com/Trshant/dynamic_problems/blob/master/longest_common_subsequence/longest_common_substring.py) , 
-[PHP](https://github.com/Trshant/dynamic_problems/blob/master/longest_common_subsequence/longest_common_substring.php) , 
-[JavaScript](https://github.com/Trshant/dynamic_problems/blob/master/longest_common_subsequence/longest_common_substring.js)
+[Python](https://github.com/Trshant/dynamic_problems/blob/master/longest_common_substring/longest_common_substring.py) , 
+[PHP](https://github.com/Trshant/dynamic_problems/blob/master/longest_common_substring/longest_common_substring.php) , 
+[JavaScript](https://github.com/Trshant/dynamic_problems/blob/master/longest_common_substring/longest_common_substring.js)
 ] | [Source](http://www.techiedelight.com/longest-common-substring-problem/)
     
 4.  [Longest Palindromic Subsequence using Dynamic Programming](http://www.techiedelight.com/longest-palindromic-subsequence-using-dynamic-programming/)
