@@ -1,6 +1,6 @@
 
 **Problems**
-1.  Longest Common Subsequence [My Solution] [Source](http://www.techiedelight.com/longest-common-subsequence/)
+1.  Longest Common Subsequence [My Solution](https://github.com/Trshant/dynamic_problems/tree/master/longest_common_subsequence) [Source](http://www.techiedelight.com/longest-common-subsequence/)
     
 2.  [Longest Common Subsequence | Finding all LCS — Techie Delight](http://www.techiedelight.com/longest-common-subsequence-finding-lcs/)
     
